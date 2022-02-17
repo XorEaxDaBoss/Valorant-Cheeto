@@ -18,7 +18,7 @@
 
 #### Just someone else's GUI, the SRC is mine.
 
-#### What is Codedx Valorant?
+#### What is Valorant Cheeto?
 
  - Inside the folder there is a spoofer that you can use to build your own. 
  - This Cheeto is fully featured internal hack for Valorant written in C++.
