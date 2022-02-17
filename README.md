@@ -16,7 +16,7 @@
 
 ![image](https://user-images.githubusercontent.com/96410571/147380460-77ab6505-ad0c-4b65-88ba-816b91dd454f.png)
 
-#### Just someone else's GUI, the SRC is mine.
+#### Just someone else's GUI, the SRC is mine. I'm working on the new GUI.
 
 #### What is Valorant Cheeto?
 
